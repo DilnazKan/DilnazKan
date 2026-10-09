@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 
+- I am dilnaz
+- Major in AI for data science and marketing
+- Currently working on fintech which can optimize ordinary things
 
-<!--
-**DilnazKan/DilnazKan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Relevant projects you can find: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**💸 Financial Social Search Engine**](https://github.com/DilnazKan/financial-social-search-engine): Search engine for personal finance Q&A that combines BM25, FinBERT and neural re-ranking with social graph signals.
+- [**📊 Customer Analytics**](https://github.com/DilnazKan/customer-churn-clv-analytics): Customer segmentation, churn prediction and lifetime value forecasting on real marketing data.
+- [**🧠 LLM vs Human Word Norms**](https://github.com/DilnazKan/llm-psycholinguistics): Study comparing how LLMs and humans rate word concreteness and valence.
+- [**👗 Fashion Recommender System**](https://github.com/DilnazKan/fashion-recommender-system): Content-based clothing recommender using TF-IDF and cosine similarity, with a Streamlit demo.
+- **🩺 Anyklara** *(private)*: Privacy-first women's health app with a FastAPI backend and an AI assistant that explains medical research in plain language.
